@@ -1,0 +1,10 @@
+build/
+composer.lock
+docs
+vendor/
+.idea/
+.phpunit.result.cache
+.phpunit.cache/
+coverage.xml
+coverage-html/
+clover.xml
